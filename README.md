@@ -18,6 +18,24 @@ yarn cypress open // might fail the first time while cypress is being 'verified'
 ```
 Then test out some of the examples and have some fun
 
+You can run tests headlessly via the following code:
+
+```
+yarn cypress run
+```
+
+Run an individual spec:
+
+```
+yarn cypress run -s [path to spec]
+```
+
+Run an individual test by adding `only` to the `it` hook:
+
+```
+it.only('name', () => { ...
+```
+
 Check out documentation further here - https://docs.cypress.io/guides/getting-started/writing-your-first-test
 
 ## FAQ
