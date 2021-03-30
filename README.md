@@ -19,3 +19,12 @@ yarn cypress open // might fail the first time while cypress is being 'verified'
 Then test out some of the examples and have some fun
 
 Check out documentation further here - https://docs.cypress.io/guides/getting-started/writing-your-first-test
+
+## FAQ
+
+What is this? 
+```<reference types="cypress" />```
+This is a tripple slash directive. It tells Intellisense what formatting to use.
+References
+* https://docs.cypress.io/guides/tooling/IDE-integration#Writing-Tests
+* https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html
