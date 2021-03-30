@@ -1,4 +1,4 @@
-# cypress-sandbox
+# cypress-sandbox 🌲
 
 ## Prerequisites 
 * Node.js - https://nodejs.org/en/download/
@@ -15,3 +15,4 @@ cd ./cypress-sandbox
 yarn install
 yarn cypress open // might fail the first time while cypress is being 'verified' by the OS
 ```
+Then test out some of the examples and have some fun
