@@ -14,7 +14,7 @@ Next, install dependencies and open cypress
 cd ./cypress-sandbox
 npm install --global yarn
 yarn install
-yarn cypress open // might fail the first time while cypress is being 'verified' by the OS
+yarn cypress open // might fail the first time while cypress is being 'verified' by the OS. Just run again.
 ```
 Then test out some of the examples and have some fun
 
