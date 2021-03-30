@@ -5,5 +5,5 @@
 * Git - https://git-scm.com/downloads
 
 ## Installing Cypress
-yarn install
-yarn cypress open // might fail the first time while cypress is being 'verified' by the OS
+`yarn install`
+`yarn cypress open // might fail the first time while cypress is being 'verified' by the OS`
