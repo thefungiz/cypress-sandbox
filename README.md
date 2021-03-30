@@ -12,6 +12,7 @@ git clone https://github.com/thefungiz/cypress-sandbox.git
 Next, install dependencies and open cypress
 ```
 cd ./cypress-sandbox
+npm install --global yarn
 yarn install
 yarn cypress open // might fail the first time while cypress is being 'verified' by the OS
 ```
