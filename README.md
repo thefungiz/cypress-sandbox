@@ -1,5 +1,7 @@
 # cypress-sandbox 🌲
 
+This project allows one to get up and running with Cypress in no time. Fork this project to use it as a starter if you so wish. 
+
 ## Prerequisites 
 * Node.js - https://nodejs.org/en/download/
 * Git - https://git-scm.com/downloads
