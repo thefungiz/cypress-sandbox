@@ -1,0 +1,11 @@
+{
+  "name": "cypress-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thefungiz/cypress-sandbox.git",
+  "author": "root.dzeller@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
