@@ -23,8 +23,11 @@ Check out documentation further here - https://docs.cypress.io/guides/getting-st
 ## FAQ
 
 What is this? 
+
 ```<reference types="cypress" />```
+
 This is a tripple slash directive. It tells Intellisense what formatting to use.
+
 References
 * https://docs.cypress.io/guides/tooling/IDE-integration#Writing-Tests
 * https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html
