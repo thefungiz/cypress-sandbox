@@ -40,6 +40,16 @@ it.only('name', () => { ...
 
 Check out documentation further here - https://docs.cypress.io/guides/getting-started/writing-your-first-test
 
+## Practical Learning
+
+To get some practical experience, the following tasks might be useful:
+
+* Try querying elements - https://docs.cypress.io/guides/core-concepts/introduction-to-cypress#Cypress-Can-Be-Simple-Sometimes
+*	Try to find a way to use these common assertions - https://docs.cypress.io/guides/references/assertions#Common-Assertions
+*	Try to use a few of these actions - https://docs.cypress.io/guides/core-concepts/interacting-with-elements#Actionability
+* Try taking screenshots and videos - https://docs.cypress.io/guides/guides/screenshots-and-videos#Screenshots
+*	Try using variables and aliases - https://docs.cypress.io/guides/core-concepts/variables-and-aliases
+
 ## FAQ
 
 What is this? 
